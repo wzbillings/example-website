@@ -1,0 +1,6 @@
+---
+title: "another page"
+---
+This is a page where I can put whatever I want!
+
+![profile.jpg]()

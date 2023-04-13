@@ -1,0 +1,16 @@
+---
+title: "I invented neopets 2!"
+image: my-picture.png
+about:
+  template: solana
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/wzbillings
+    - icon: github
+      text: Github
+      href: https://github.com/wzbillings
+
+---
+
+This is where I will put my new game that is a better version of neopets.

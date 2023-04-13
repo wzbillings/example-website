@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "I invented neopets 2!",
+    "section": "",
+    "text": "This is where I will put my new game that is a better version of neopets."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "My undergrad thesis\n\n\n\n\n\n\n\nthesis\n\n\nbiology\n\n\n\n\n\n\n\n\n\n\n\nMay 1, 2020\n\n\nZane Billings\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "page2.html",
+    "href": "page2.html",
+    "title": "another page",
+    "section": "",
+    "text": "This is a page where I can put whatever I want!\n\n\n\nprofile.jpg"
+  },
+  {
+    "objectID": "pubs/undergrad-thesis/index.html",
+    "href": "pubs/undergrad-thesis/index.html",
+    "title": "My undergrad thesis",
+    "section": "",
+    "text": "Here is a link to my undergrad thesis."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Zanes-Website",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nApr 13, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 10, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  }
+]

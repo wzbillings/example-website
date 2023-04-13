@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Neopets 2!"
+  navbar:
+    right:
+      - text: home
+        href: index.qmd
+      - text: blog
+        href: blog.qmd
+      - text: asdhgfojashvojh
+        href: page2.qmd
+      - text: publications
+        href: publications.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+format:
+  html:
+    theme:
+      light: pulse
+      dark: vapor
+    css: styles.css
+
+
+

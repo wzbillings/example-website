@@ -1,0 +1,8 @@
+---
+title: "My undergrad thesis"
+author: "Zane Billings"
+date: "2020-05-01"
+categories: [thesis, biology]
+image: "image.jpg"
+---
+Here is a link to my [undergrad thesis](https://google.com).
